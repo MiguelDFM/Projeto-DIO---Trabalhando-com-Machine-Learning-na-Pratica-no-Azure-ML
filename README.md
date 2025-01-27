@@ -1,6 +1,6 @@
 # Trabalhando com Machine Learning na Prática no Azure ML
 # NOTA IMPORTANTE PARA QUEM TIVER DIFICULDADE NO PASSO 3 , AO TENTAR USAR O LINK  https://aka.ms/bike-rentals , 
-# simplesmente baixe , ( vai baixar em zip ) e em vez de escolher link, faça upload da pasta
+# simplesmente baixe , ( vai baixar em zip ) e em vez de escolher link, faça upload da pasta ( que contem o ficheiro csv )
 Passo a passo do projeto Trabalhando com Machine Learning na Prática no Azure ML da DIO.
 
 Links importantes:
